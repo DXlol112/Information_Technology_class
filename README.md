@@ -15,6 +15,9 @@
 
 1. [Крупные утечки данных в России в 2022 году](lesson_01/hw/research_01.md)
 
+## Связанные репозитории
+- [Подключение Google Аналитика к проекту](https://github.com/DXlol112/ga4-analytics-lab_test)
+
 ## Структура
 
 ```text
