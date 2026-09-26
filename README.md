@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | 1 | [Цифровая воронка](lesson_01/class/Цифровая%20воронка.md) | [Журнал событий и проверка точки разрыва](lesson_01/hw/homework_01.md) |
 | 2 | [UTM-метки](lesson_02/class/UTM-метки.md) | [Воронка и Google Analytics 4](lesson_02/hw/homework_02.md) |
-| 3 | [Google Analytics 4](lesson_03/class/Google%20Analytics%204.md) | — |
+| 3 | [Google Analytics 4](lesson_03/class/Google%20Analytics%204.md) | [Тег на сайте, источник и отчёты GA4](lesson_03/hw/homework_03.md) |
 | 4 | [Vercel и Google Tag](lesson_04/class/Vercel%20и%20Google%20Tag.md) | — |
 
 ## Доклады
@@ -36,6 +36,9 @@
 │       │   ├── url-query-string.jpg
 │       │   └── utm-urchin-history.jpg
 │       ├── lesson_03/
+│       │   ├── 03-realtime.png
+│       │   ├── 04-source.png
+│       │   ├── 05-reports.png
 │       │   ├── ga4-enhanced-measurement.png
 │       │   ├── ga4-measurement-id.png
 │       │   └── ga4-web-stream-details.png
@@ -54,8 +57,10 @@
 │   └── hw/
 │       └── homework_02.md
 ├── lesson_03/
-│   └── class/
-│       └── Google Analytics 4.md
+│   ├── class/
+│   │   └── Google Analytics 4.md
+│   └── hw/
+│       └── homework_03.md
 ├── lesson_04/
 │   └── class/
 │       └── Vercel и Google Tag.md
