@@ -4,18 +4,19 @@
 
 ## Оглавление
 
-| Занятие | Конспект | Домашняя работа |
-| --- | --- | --- |
-| 1 | [Цифровая воронка](lesson_01/class/Цифровая%20воронка.md) | [Журнал событий и проверка точки разрыва](lesson_01/hw/homework_01.md) |
-| 2 | [UTM-метки](lesson_02/class/UTM-метки.md) | [Воронка и Google Analytics 4](lesson_02/hw/homework_02.md) |
-| 3 | [Google Analytics 4](lesson_03/class/Google%20Analytics%204.md) | [Тег на сайте, источник и отчёты GA4](lesson_03/hw/homework_03.md) |
-| 4 | [Vercel и Google Tag](lesson_04/class/Vercel%20и%20Google%20Tag.md) | — |
+| Занятие |                              Конспект                               |                            Домашняя работа                             |
+| :-----: | :-----------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|    1    |      [Цифровая воронка](lesson_01/class/Цифровая%20воронка.md)      | [Журнал событий и проверка точки разрыва](lesson_01/hw/homework_01.md) |
+|    2    |              [UTM-метки](lesson_02/class/UTM-метки.md)              |      [Воронка и Google Analytics 4](lesson_02/hw/homework_02.md)       |
+|    3    |   [Google Analytics 4](lesson_03/class/Google%20Analytics%204.md)   |   [Тег на сайте, источник и отчёты GA4](lesson_03/hw/homework_03.md)   |
+|    4    | [Vercel и Google Tag](lesson_04/class/Vercel%20и%20Google%20Tag.md) |                [DebugView](lesson_04/hw/homework_04.md)                |
 
 ## Доклады
 
 1. [Крупные утечки данных в России в 2022 году](lesson_01/hw/research_01.md)
 
 ## Связанные репозитории
+
 - [Подключение Google Аналитика к проекту](https://github.com/DXlol112/ga4-analytics-lab_test)
 
 ## Структура
@@ -64,6 +65,8 @@
 ├── lesson_04/
 │   └── class/
 │       └── Vercel и Google Tag.md
+|	└── hw/
+│       └── homework_04.md
 ├── .gitignore
 ├── LICENSE.md
 └── README.md
