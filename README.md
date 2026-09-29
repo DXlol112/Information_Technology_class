@@ -10,6 +10,8 @@
 |    2    |              [UTM-метки](lesson_02/class/UTM-метки.md)              |      [Воронка и Google Analytics 4](lesson_02/hw/homework_02.md)       |
 |    3    |   [Google Analytics 4](lesson_03/class/Google%20Analytics%204.md)   |   [Тег на сайте, источник и отчёты GA4](lesson_03/hw/homework_03.md)   |
 |    4    | [Vercel и Google Tag](lesson_04/class/Vercel%20и%20Google%20Tag.md) |                [DebugView](lesson_04/hw/homework_04.md)                |
+|    5    | [События GA4](lesson_05/class/События%20GA4.md) | — |
+|    6    | [Google Sheets и заявки](lesson_06/class/Google%20Sheets%20и%20заявки.md) | — |
 
 ## Доклады
 
@@ -24,28 +26,42 @@
 ```text
 .
 ├── .github/
-│   └── assets/
-│       ├── lesson_01/
-│       │   └── conversion-funnel.jpg
-│       ├── lesson_02/
-│       │   ├── 01-ga4-account-and-property.png
-│       │   ├── 02-ga4-property-settings.png
-│       │   ├── 03-ga4-business-goals.png
-│       │   ├── 04-ga4-web-stream-details.png
-│       │   ├── 05-ga4-stream-identifiers.png
-│       │   ├── url-parts.jpg
-│       │   ├── url-query-string.jpg
-│       │   └── utm-urchin-history.jpg
-│       ├── lesson_03/
-│       │   ├── 03-realtime.png
-│       │   ├── 04-source.png
-│       │   ├── 05-reports.png
-│       │   ├── ga4-enhanced-measurement.png
-│       │   ├── ga4-measurement-id.png
-│       │   └── ga4-web-stream-details.png
-│       └── lesson_04/
-│           ├── vercel-application-preset.png
-│           └── vercel-project-settings.png
+│   ├── assets/
+│   │   ├── lesson_01/
+│   │   │   └── conversion-funnel.jpg
+│   │   ├── lesson_02/
+│   │   │   ├── 01-ga4-account-and-property.png
+│   │   │   ├── 02-ga4-property-settings.png
+│   │   │   ├── 03-ga4-business-goals.png
+│   │   │   ├── 04-ga4-web-stream-details.png
+│   │   │   ├── 05-ga4-stream-identifiers.png
+│   │   │   ├── url-parts.jpg
+│   │   │   ├── url-query-string.jpg
+│   │   │   └── utm-urchin-history.jpg
+│   │   ├── lesson_03/
+│   │   │   ├── 03-realtime.png
+│   │   │   ├── 04-source.png
+│   │   │   ├── 05-reports.png
+│   │   │   ├── ga4-enhanced-measurement.png
+│   │   │   ├── ga4-measurement-id.png
+│   │   │   └── ga4-web-stream-details.png
+│   │   ├── lesson_04/
+│   │   │   ├── 01-code.png
+│   │   │   ├── 02-debugview.png
+│   │   │   ├── 03-utm-params.png
+│   │   │   ├── 04-realtime.png
+│   │   │   ├── vercel-application-preset.png
+│   │   │   └── vercel-project-settings.png
+│   │   ├── lesson_05/
+│   │   │   ├── ga4-custom-dimension.png
+│   │   │   ├── ga4-debugview-parameters.png
+│   │   │   ├── ga4-enhanced-measurement.png
+│   │   │   └── ga4-key-event.png
+│   │   └── lesson_06/
+│   │       ├── sheets-data-quality.png
+│   │       ├── sheets-leads-table.png
+│   │       └── sheets-status-validation.png
+│   └── .gitkeep
 ├── lesson_01/
 │   ├── class/
 │   │   └── Цифровая воронка.md
@@ -63,10 +79,16 @@
 │   └── hw/
 │       └── homework_03.md
 ├── lesson_04/
-│   └── class/
-│       └── Vercel и Google Tag.md
-|	└── hw/
+│   ├── class/
+│   │   └── Vercel и Google Tag.md
+│   └── hw/
 │       └── homework_04.md
+├── lesson_05/
+│   └── class/
+│       └── События GA4.md
+├── lesson_06/
+│   └── class/
+│       └── Google Sheets и заявки.md
 ├── .gitignore
 ├── LICENSE.md
 └── README.md
