@@ -21,6 +21,8 @@
 
 - [Подключение Google Аналитика к проекту](https://github.com/DXlol112/ga4-analytics-lab_test)
 
+- [Подгтовка данных в Google таблицах](https://github.com/DXlol112/lesson_data_cleaning)
+
 ## Структура
 
 ```text
