@@ -23,7 +23,7 @@
 
 - [Подключение Google Аналитика к проекту](https://github.com/DXlol112/ga4-analytics-lab_test)
 
-- [Подготовка данных в Google таблицах](https://github.com/DXlol112/lesson_data_cleaning)
+- [Очистка данных в Google Таблицах](lesson_07/class/lesson_data_cleaning/README.md)(Теперь в этом репозитории)
 
 ## Структура
 
