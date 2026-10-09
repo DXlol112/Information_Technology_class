@@ -11,7 +11,7 @@
 |    3    |   [Google Analytics 4](lesson_03/class/Google%20Analytics%204.md)   |   [Тег на сайте, источник и отчёты GA4](lesson_03/hw/homework_03.md)   |
 |    4    | [Vercel и Google Tag](lesson_04/class/Vercel%20и%20Google%20Tag.md) |                [DebugView](lesson_04/hw/homework_04.md)                |
 |    5    | [События GA4](lesson_05/class/События%20GA4.md) | [Контролируемая таблица заявок](lesson_05/hw/hw_05.md) |
-|    6    | [Google Sheets и заявки](lesson_06/class/Google%20Sheets%20и%20заявки.md) | — |
+|    6    | [Google Sheets и заявки](lesson_06/class/Google%20Sheets%20и%20заявки.md) | [Подготовка данных в Google Таблицах](lesson_06/hw/hw-06.md) |
 |    7    | [Очистка данных в Google Таблицах](lesson_07/class/Очистка%20данных%20в%20Google%20Таблицах.md) | — |
 |    8    | [Instagram и ManyChat](lesson_08/class/Instagram%20и%20ManyChat.md) | — |
 
@@ -23,7 +23,7 @@
 
 - [Подключение Google Аналитика к проекту](https://github.com/DXlol112/ga4-analytics-lab_test)
 
-- [Очистка данных в Google Таблицах](lesson_07/class/lesson_data_cleaning/README.md)(Теперь в этом репозитории)
+- [Очистка данных в Google Таблицах](lesson_07/class/lesson_data_cleaning/README.md) — теперь в этом репозитории.
 
 ## Структура
 
@@ -71,6 +71,13 @@
 │       │   ├── ga4-enhanced-measurement.png
 │       │   └── ga4-key-event.png
 │       ├── lesson_06/
+│       │   ├── 01-import.png
+│       │   ├── 02-source.png
+│       │   ├── 03-formulas.png
+│       │   ├── 04-value-error.png
+│       │   ├── 05-status-filter.png
+│       │   ├── 06-v2.png
+│       │   ├── 07-check.png
 │       │   ├── sheets-data-quality.png
 │       │   ├── sheets-leads-table.png
 │       │   └── sheets-status-validation.png
@@ -112,10 +119,21 @@
 │   └── hw/
 │       └── hw_05.md
 ├── lesson_06/
-│   └── class/
-│       └── Google Sheets и заявки.md
+│   ├── class/
+│   │   └── Google Sheets и заявки.md
+│   └── hw/
+│       └── hw-06.md
 ├── lesson_07/
 │   └── class/
+│       ├── lesson_data_cleaning/
+│       │   ├── data/
+│       │   │   ├── leads_dirty.csv
+│       │   │   ├── leads_dirty_v1_backup.csv
+│       │   │   └── leads_dirty_v2.csv
+│       │   ├── result/
+│       │   │   ├── leads_clean.csv
+│       │   │   └── leads_clean_v2.csv
+│       │   └── README.md
 │       └── Очистка данных в Google Таблицах.md
 ├── lesson_08/
 │   └── class/
