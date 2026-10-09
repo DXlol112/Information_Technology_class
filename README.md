@@ -4,16 +4,16 @@
 
 ## Оглавление
 
-| Занятие |                              Конспект                               |                            Домашняя работа                             |
-| :-----: | :-----------------------------------------------------------------: | :--------------------------------------------------------------------: |
-|    1    |      [Цифровая воронка](lesson_01/class/Цифровая%20воронка.md)      | [Журнал событий и проверка точки разрыва](lesson_01/hw/homework_01.md) |
-|    2    |              [UTM-метки](lesson_02/class/UTM-метки.md)              |      [Воронка и Google Analytics 4](lesson_02/hw/homework_02.md)       |
-|    3    |   [Google Analytics 4](lesson_03/class/Google%20Analytics%204.md)   |   [Тег на сайте, источник и отчёты GA4](lesson_03/hw/homework_03.md)   |
-|    4    | [Vercel и Google Tag](lesson_04/class/Vercel%20и%20Google%20Tag.md) |                [DebugView](lesson_04/hw/homework_04.md)                |
-|    5    | [События GA4](lesson_05/class/События%20GA4.md) | [Контролируемая таблица заявок](lesson_05/hw/hw_05.md) |
-|    6    | [Google Sheets и заявки](lesson_06/class/Google%20Sheets%20и%20заявки.md) | [Подготовка данных в Google Таблицах](lesson_06/hw/hw-06.md) |
-|    7    | [Очистка данных в Google Таблицах](lesson_07/class/Очистка%20данных%20в%20Google%20Таблицах.md) | — |
-|    8    | [Instagram и ManyChat](lesson_08/class/Instagram%20и%20ManyChat.md) | — |
+| Занятие |                                            Конспект                                             |                            Домашняя работа                             |
+| :-----: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|    1    |                    [Цифровая воронка](lesson_01/class/Цифровая%20воронка.md)                    | [Журнал событий и проверка точки разрыва](lesson_01/hw/homework_01.md) |
+|    2    |                            [UTM-метки](lesson_02/class/UTM-метки.md)                            |      [Воронка и Google Analytics 4](lesson_02/hw/homework_02.md)       |
+|    3    |                 [Google Analytics 4](lesson_03/class/Google%20Analytics%204.md)                 |   [Тег на сайте, источник и отчёты GA4](lesson_03/hw/homework_03.md)   |
+|    4    |               [Vercel и Google Tag](lesson_04/class/Vercel%20и%20Google%20Tag.md)               |                [DebugView](lesson_04/hw/homework_04.md)                |
+|    5    |                         [События GA4](lesson_05/class/События%20GA4.md)                         |         [Контролируемая таблица заявок](lesson_05/hw/hw_05.md)         |
+|    6    |            [Google Sheets и заявки](lesson_06/class/Google%20Sheets%20и%20заявки.md)            |      [Подготовка данных в Google Таблицах](lesson_06/hw/hw-06.md)      |
+|    7    | [Очистка данных в Google Таблицах](lesson_07/class/Очистка%20данных%20в%20Google%20Таблицах.md) |         [Instagram → ManyChat → заявка](lesson_07/hw/hw-7.md)          |
+|    8    |               [Instagram и ManyChat](lesson_08/class/Instagram%20и%20ManyChat.md)               |                                   —                                    |
 
 ## Доклады
 
@@ -82,8 +82,17 @@
 │       │   ├── sheets-leads-table.png
 │       │   └── sheets-status-validation.png
 │       ├── lesson_07/
+│       │   ├── 01-connected.png
+│       │   ├── 02-flow.png
+│       │   ├── 03-trigger.png
+│       │   ├── 04-comment.png
+│       │   ├── 05-direct.png
+│       │   ├── 06-guide-utm.png
+│       │   ├── 07-ga4.png
+│       │   ├── 08-lead.png
 │       │   ├── date-value-error.png
 │       │   ├── dirty-csv.png
+│       │   ├── post-deleted.png
 │       │   ├── refreshed-clean-data.png
 │       │   └── source-vs-clean.png
 │       └── lesson_08/
@@ -124,17 +133,19 @@
 │   └── hw/
 │       └── hw-06.md
 ├── lesson_07/
-│   └── class/
-│       ├── lesson_data_cleaning/
-│       │   ├── data/
-│       │   │   ├── leads_dirty.csv
-│       │   │   ├── leads_dirty_v1_backup.csv
-│       │   │   └── leads_dirty_v2.csv
-│       │   ├── result/
-│       │   │   ├── leads_clean.csv
-│       │   │   └── leads_clean_v2.csv
-│       │   └── README.md
-│       └── Очистка данных в Google Таблицах.md
+│   ├── class/
+│   │   ├── lesson_data_cleaning/
+│   │   │   ├── data/
+│   │   │   │   ├── leads_dirty.csv
+│   │   │   │   ├── leads_dirty_v1_backup.csv
+│   │   │   │   └── leads_dirty_v2.csv
+│   │   │   ├── result/
+│   │   │   │   ├── leads_clean.csv
+│   │   │   │   └── leads_clean_v2.csv
+│   │   │   └── README.md
+│   │   └── Очистка данных в Google Таблицах.md
+│   └── hw/
+│       └── hw-7.md
 ├── lesson_08/
 │   └── class/
 │       └── Instagram и ManyChat.md
