@@ -168,7 +168,7 @@ https://ga4-analytics-lab-test.vercel.app/?utm_source=telegram&utm_medium=post&u
 | Самое частое событие | page_view | 29 авг. 2026 г. - 25 сент. 2026 г. |
 
 Скриншот:
-![Страница «Отчёты» со статистикой](screens/05-reports.png)
+![Страница «Отчёты» со статистикой](../../.github/assets/lesson_03/05-reports.png)
 
 **Что видно по этим числам** (2–3 предложения):
 

@@ -12,8 +12,8 @@
 |    4    | [Vercel и Google Tag](lesson_04/class/Vercel%20и%20Google%20Tag.md) |                [DebugView](lesson_04/hw/homework_04.md)                |
 |    5    | [События GA4](lesson_05/class/События%20GA4.md) | [Контролируемая таблица заявок](lesson_05/hw/hw_05.md) |
 |    6    | [Google Sheets и заявки](lesson_06/class/Google%20Sheets%20и%20заявки.md) | — |
-|    8    | [Очистка данных в Google Таблицах](lesson_08/class/Очистка%20данных%20в%20Google%20Таблицах.md) | — |
-|    9    | [Instagram и ManyChat](lesson_09/class/Instagram%20и%20ManyChat.md) | — |
+|    7    | [Очистка данных в Google Таблицах](lesson_07/class/Очистка%20данных%20в%20Google%20Таблицах.md) | — |
+|    8    | [Instagram и ManyChat](lesson_08/class/Instagram%20и%20ManyChat.md) | — |
 
 ## Доклады
 
@@ -74,12 +74,12 @@
 │       │   ├── sheets-data-quality.png
 │       │   ├── sheets-leads-table.png
 │       │   └── sheets-status-validation.png
-│       ├── lesson_08/
+│       ├── lesson_07/
 │       │   ├── date-value-error.png
 │       │   ├── dirty-csv.png
 │       │   ├── refreshed-clean-data.png
 │       │   └── source-vs-clean.png
-│       └── lesson_09/
+│       └── lesson_08/
 │           ├── branching-flow.png
 │           ├── instagram-post.png
 │           ├── lead-utm.png
@@ -114,10 +114,10 @@
 ├── lesson_06/
 │   └── class/
 │       └── Google Sheets и заявки.md
-├── lesson_08/
+├── lesson_07/
 │   └── class/
 │       └── Очистка данных в Google Таблицах.md
-├── lesson_09/
+├── lesson_08/
 │   └── class/
 │       └── Instagram и ManyChat.md
 ├── .gitignore
