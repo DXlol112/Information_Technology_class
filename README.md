@@ -25,6 +25,8 @@
 
 - [Очистка данных в Google Таблицах](lesson_07/class/lesson_data_cleaning/README.md) — теперь в этом репозитории.
 
+- [Курсовая работа по тз № 11](https://github.com/DXlol112/tz-11-turklub-tropa) 
+
 ## Структура
 
 ```text
